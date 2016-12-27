@@ -1181,7 +1181,7 @@ footer {
 }
 
 .modal_content_row {
-  padding-bottom: 122px;
+  padding-bottom: 109px;
 }
 
 .modal_next, .modal_prev {
@@ -1240,6 +1240,7 @@ footer {
 .plus, .minus {
   cursor: pointer;
   @include transition;
+  user-select: none;
   &:hover {
     color: $yellow;
   }
@@ -1259,7 +1260,7 @@ footer {
   cursor: pointer;
   padding: {
     top: 5px;
-    bottom: 5px;
+    bottom: 7px;
     left: 19px;
     right: 19px;
   }

@@ -262,9 +262,10 @@ $(document).ready(function () {
                 },
                 success: function (data) {
                     if (data == "") {
-                        $("#order").html("");
+                        $("#step4").css("display", "block");
+                        $('#step3').css('display', 'none');
                     } else {
-
+                        alert(data);
                     }
                 }
             });

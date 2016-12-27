@@ -1086,7 +1086,7 @@ footer {
   padding-top: 29px; }
 
 .modal_content_row {
-  padding-bottom: 122px; }
+  padding-bottom: 109px; }
 
 .modal_next, .modal_prev {
   display: block;
@@ -1147,7 +1147,11 @@ footer {
 .plus, .minus {
   cursor: pointer;
   -webkit-transition: all 0.4s ease;
-  transition: all 0.4s ease; }
+  transition: all 0.4s ease;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none; }
   .plus:hover, .minus:hover {
     color: #febc00; }
 
@@ -1163,7 +1167,7 @@ footer {
   margin-right: 10px;
   cursor: pointer;
   padding-top: 5px;
-  padding-bottom: 5px;
+  padding-bottom: 7px;
   padding-left: 19px;
   padding-right: 19px;
   -webkit-transition: all 0.4s ease;

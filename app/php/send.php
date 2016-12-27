@@ -23,7 +23,7 @@ if(!empty($_POST)){
 	$arUsers = array(
 		array(
 			"NAME"=>"KIDDO",
-			"EMAIL"=>"alexrewrew@live.com"
+			"EMAIL"=>"alex@volta.one"
 		),
         /*array(
 			"NAME"=>"PARUSAN",
