@@ -1340,6 +1340,11 @@ label {
   textarea {min-height: 100px;}
 }
 
+#step4 {
+  display: none;
+  @include transition;
+}
+
 #novaposhta {
   display: none;
 }

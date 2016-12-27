@@ -1,7 +1,307 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d21a6799-fc58-44d8-afea-368e02040ee0" name="Default" comment="" />
+    <list default="true" id="d21a6799-fc58-44d8-afea-368e02040ee0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/fonts/Gilroy/Gilroy-ExtraBold.eot" afterPath="$PROJECT_DIR$/app/fonts/Gilroy/Gilroy-ExtraBold.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/fonts/Gilroy/Gilroy-ExtraBold.ttf" afterPath="$PROJECT_DIR$/app/fonts/Gilroy/Gilroy-ExtraBold.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/fonts/Gilroy/Gilroy-ExtraBold.woff" afterPath="$PROJECT_DIR$/app/fonts/Gilroy/Gilroy-ExtraBold.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/fonts/Gilroy/Gilroy-Light.eot" afterPath="$PROJECT_DIR$/app/fonts/Gilroy/Gilroy-Light.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/fonts/Gilroy/Gilroy-Light.ttf" afterPath="$PROJECT_DIR$/app/fonts/Gilroy/Gilroy-Light.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/fonts/Gilroy/Gilroy-Light.woff" afterPath="$PROJECT_DIR$/app/fonts/Gilroy/Gilroy-Light.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/apphone.png" afterPath="$PROJECT_DIR$/app/img/apphone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/applay.png" afterPath="$PROJECT_DIR$/app/img/applay.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/appstore.png" afterPath="$PROJECT_DIR$/app/img/appstore.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/arrow-down.png" afterPath="$PROJECT_DIR$/app/img/arrow-down.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/close.png" afterPath="$PROJECT_DIR$/app/img/close.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/favicon/android-icon-144x144.png" afterPath="$PROJECT_DIR$/app/img/favicon/android-icon-144x144.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/favicon/android-icon-192x192.png" afterPath="$PROJECT_DIR$/app/img/favicon/android-icon-192x192.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/favicon/android-icon-36x36.png" afterPath="$PROJECT_DIR$/app/img/favicon/android-icon-36x36.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/favicon/android-icon-48x48.png" afterPath="$PROJECT_DIR$/app/img/favicon/android-icon-48x48.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/favicon/android-icon-72x72.png" afterPath="$PROJECT_DIR$/app/img/favicon/android-icon-72x72.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/favicon/android-icon-96x96.png" afterPath="$PROJECT_DIR$/app/img/favicon/android-icon-96x96.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/favicon/apple-icon-114x114.png" afterPath="$PROJECT_DIR$/app/img/favicon/apple-icon-114x114.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/favicon/apple-icon-120x120.png" afterPath="$PROJECT_DIR$/app/img/favicon/apple-icon-120x120.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/favicon/apple-icon-144x144.png" afterPath="$PROJECT_DIR$/app/img/favicon/apple-icon-144x144.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/favicon/apple-icon-152x152.png" afterPath="$PROJECT_DIR$/app/img/favicon/apple-icon-152x152.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/favicon/apple-icon-180x180.png" afterPath="$PROJECT_DIR$/app/img/favicon/apple-icon-180x180.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/favicon/apple-icon-57x57.png" afterPath="$PROJECT_DIR$/app/img/favicon/apple-icon-57x57.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/favicon/apple-icon-60x60.png" afterPath="$PROJECT_DIR$/app/img/favicon/apple-icon-60x60.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/favicon/apple-icon-72x72.png" afterPath="$PROJECT_DIR$/app/img/favicon/apple-icon-72x72.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/favicon/apple-icon-76x76.png" afterPath="$PROJECT_DIR$/app/img/favicon/apple-icon-76x76.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/favicon/apple-icon-precomposed.png" afterPath="$PROJECT_DIR$/app/img/favicon/apple-icon-precomposed.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/favicon/apple-icon.png" afterPath="$PROJECT_DIR$/app/img/favicon/apple-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/favicon/favicon-128.png" afterPath="$PROJECT_DIR$/app/img/favicon/favicon-128.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/favicon/favicon-196x196.png" afterPath="$PROJECT_DIR$/app/img/favicon/favicon-196x196.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/favicon/ms-icon-144x144.png" afterPath="$PROJECT_DIR$/app/img/favicon/ms-icon-144x144.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/favicon/ms-icon-150x150.png" afterPath="$PROJECT_DIR$/app/img/favicon/ms-icon-150x150.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/favicon/ms-icon-310x310.png" afterPath="$PROJECT_DIR$/app/img/favicon/ms-icon-310x310.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/favicon/ms-icon-70x70.png" afterPath="$PROJECT_DIR$/app/img/favicon/ms-icon-70x70.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/icons/icon1.png" afterPath="$PROJECT_DIR$/app/img/icons/icon1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/kid.png" afterPath="$PROJECT_DIR$/app/img/kid.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/pricerobot.png" afterPath="$PROJECT_DIR$/app/img/pricerobot.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/product.png" afterPath="$PROJECT_DIR$/app/img/product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/product_slider/ifever1.png" afterPath="$PROJECT_DIR$/app/img/product_slider/ifever1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/robot.png" afterPath="$PROJECT_DIR$/app/img/robot.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/robot2.png" afterPath="$PROJECT_DIR$/app/img/robot2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/single_product.png" afterPath="$PROJECT_DIR$/app/img/single_product.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/sliderback/1.png" afterPath="$PROJECT_DIR$/app/img/sliderback/1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/images/algorithm.png" afterPath="$PROJECT_DIR$/app/package/jparallax/images/algorithm.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/images/diagram.png" afterPath="$PROJECT_DIR$/app/package/jparallax/images/diagram.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/images/map.jpg" afterPath="$PROJECT_DIR$/app/package/jparallax/images/map.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/images/parallax_button/1.png" afterPath="$PROJECT_DIR$/app/package/jparallax/images/parallax_button/1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/images/parallax_button/2.png" afterPath="$PROJECT_DIR$/app/package/jparallax/images/parallax_button/2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/images/parallax_button/3.png" afterPath="$PROJECT_DIR$/app/package/jparallax/images/parallax_button/3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/images/parallax_button/4.png" afterPath="$PROJECT_DIR$/app/package/jparallax/images/parallax_button/4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/images/parallax_button/5.png" afterPath="$PROJECT_DIR$/app/package/jparallax/images/parallax_button/5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/images/parallax_button/6.png" afterPath="$PROJECT_DIR$/app/package/jparallax/images/parallax_button/6.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/images/parallax_drops/0.png" afterPath="$PROJECT_DIR$/app/package/jparallax/images/parallax_drops/0.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/images/parallax_drops/1.png" afterPath="$PROJECT_DIR$/app/package/jparallax/images/parallax_drops/1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/images/parallax_drops/2.png" afterPath="$PROJECT_DIR$/app/package/jparallax/images/parallax_drops/2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/images/parallax_drops/3.png" afterPath="$PROJECT_DIR$/app/package/jparallax/images/parallax_drops/3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/images/parallax_drops/4.png" afterPath="$PROJECT_DIR$/app/package/jparallax/images/parallax_drops/4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/images/parallax_drops/5.png" afterPath="$PROJECT_DIR$/app/package/jparallax/images/parallax_drops/5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/images/parallax_drops/6.png" afterPath="$PROJECT_DIR$/app/package/jparallax/images/parallax_drops/6.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/images/parallax_ratio/layer.png" afterPath="$PROJECT_DIR$/app/package/jparallax/images/parallax_ratio/layer.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/images/parallax_ratio/viewport.png" afterPath="$PROJECT_DIR$/app/package/jparallax/images/parallax_ratio/viewport.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/images/parallax_sketch/0_sun.png" afterPath="$PROJECT_DIR$/app/package/jparallax/images/parallax_sketch/0_sun.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/images/parallax_sketch/1_mountains.png" afterPath="$PROJECT_DIR$/app/package/jparallax/images/parallax_sketch/1_mountains.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/images/parallax_sketch/2_hill.png" afterPath="$PROJECT_DIR$/app/package/jparallax/images/parallax_sketch/2_hill.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/images/parallax_sketch/3_wood.png" afterPath="$PROJECT_DIR$/app/package/jparallax/images/parallax_sketch/3_wood.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/images/parallax_target/target_blue.png" afterPath="$PROJECT_DIR$/app/package/jparallax/images/parallax_target/target_blue.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/images/parallax_target/target_green.png" afterPath="$PROJECT_DIR$/app/package/jparallax/images/parallax_target/target_green.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/images/parallax_target/target_red.png" afterPath="$PROJECT_DIR$/app/package/jparallax/images/parallax_target/target_red.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/images/parallax_thumbnails/1.jpg" afterPath="$PROJECT_DIR$/app/package/jparallax/images/parallax_thumbnails/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/images/parallax_thumbnails/2.jpg" afterPath="$PROJECT_DIR$/app/package/jparallax/images/parallax_thumbnails/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/images/parallax_thumbnails/3.jpg" afterPath="$PROJECT_DIR$/app/package/jparallax/images/parallax_thumbnails/3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/images/parallax_thumbnails/4.jpg" afterPath="$PROJECT_DIR$/app/package/jparallax/images/parallax_thumbnails/4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/images/parallax_thumbnails/5.jpg" afterPath="$PROJECT_DIR$/app/package/jparallax/images/parallax_thumbnails/5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/images/parallax_thumbnails/6.jpg" afterPath="$PROJECT_DIR$/app/package/jparallax/images/parallax_thumbnails/6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/dist/assets/ajax-loader.gif" afterPath="$PROJECT_DIR$/app/package/owl.carousel/dist/assets/ajax-loader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/dist/assets/owl.video.play.png" afterPath="$PROJECT_DIR$/app/package/owl.carousel/dist/assets/owl.video.play.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/img/bird_blue_32.png" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/img/bird_blue_32.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/img/download.png" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/img/download.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/img/feature-drag.png" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/img/feature-drag.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/img/feature-modern.png" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/img/feature-modern.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/img/feature-module.png" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/img/feature-module.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/img/feature-options.png" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/img/feature-options.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/img/feature-responsive.png" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/img/feature-responsive.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/img/feature-zombie.png" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/img/feature-zombie.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/img/owl-logo.png" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/img/owl-logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/img/twitter_25.png" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/img/twitter_25.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/owlcarousel/assets/ajax-loader.gif" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/owlcarousel/assets/ajax-loader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/owlcarousel/assets/owl.video.play.png" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/owlcarousel/assets/owl.video.play.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/img/bird_blue_32.png" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/img/bird_blue_32.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/img/download.png" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/img/download.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/img/feature-drag.png" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/img/feature-drag.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/img/feature-modern.png" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/img/feature-modern.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/img/feature-module.png" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/img/feature-module.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/img/feature-options.png" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/img/feature-options.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/img/feature-responsive.png" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/img/feature-responsive.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/img/feature-zombie.png" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/img/feature-zombie.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/img/owl-logo.png" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/img/owl-logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/img/twitter_25.png" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/img/twitter_25.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/partials/releated-docs.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/partials/releated-docs.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/src/img/ajax-loader.gif" afterPath="$PROJECT_DIR$/app/package/owl.carousel/src/img/ajax-loader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/src/img/owl.video.play.png" afterPath="$PROJECT_DIR$/app/package/owl.carousel/src/img/owl.video.play.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/KIddo4.sketch" afterPath="$PROJECT_DIR$/source/KIddo4.sketch" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/all.html" afterPath="$PROJECT_DIR$/app/all.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/css/style.css" afterPath="$PROJECT_DIR$/app/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/fonts/Gilroy/stylesheet.css" afterPath="$PROJECT_DIR$/app/fonts/Gilroy/stylesheet.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/arrow-down.svg" afterPath="$PROJECT_DIR$/app/img/arrow-down.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/close.svg" afterPath="$PROJECT_DIR$/app/img/close.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/favicon/browserconfig.xml" afterPath="$PROJECT_DIR$/app/img/favicon/browserconfig.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/favicon/manifest.json" afterPath="$PROJECT_DIR$/app/img/favicon/manifest.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/img/volta.svg" afterPath="$PROJECT_DIR$/app/img/volta.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/contact-form.js" afterPath="$PROJECT_DIR$/app/js/contact-form.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/scripts.js" afterPath="$PROJECT_DIR$/app/js/scripts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/scripts.min.js" afterPath="$PROJECT_DIR$/app/js/scripts.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/.bower.json" afterPath="$PROJECT_DIR$/app/package/jparallax/.bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/.gitignore" afterPath="$PROJECT_DIR$/app/package/jparallax/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/README.textile" afterPath="$PROJECT_DIR$/app/package/jparallax/README.textile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/changelog.html" afterPath="$PROJECT_DIR$/app/package/jparallax/changelog.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/css/base.css" afterPath="$PROJECT_DIR$/app/package/jparallax/css/base.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/css/jquery.parallax.css" afterPath="$PROJECT_DIR$/app/package/jparallax/css/jquery.parallax.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/demos/index.html" afterPath="$PROJECT_DIR$/app/package/jparallax/demos/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/demos/remotecontrol.html" afterPath="$PROJECT_DIR$/app/package/jparallax/demos/remotecontrol.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/demos/stalkbuttons.html" afterPath="$PROJECT_DIR$/app/package/jparallax/demos/stalkbuttons.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/demos/target.html" afterPath="$PROJECT_DIR$/app/package/jparallax/demos/target.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/demos/thumbnails.html" afterPath="$PROJECT_DIR$/app/package/jparallax/demos/thumbnails.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/index.html" afterPath="$PROJECT_DIR$/app/package/jparallax/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/js/jquery.event.frame.js" afterPath="$PROJECT_DIR$/app/package/jparallax/js/jquery.event.frame.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/js/jquery.parallax.js" afterPath="$PROJECT_DIR$/app/package/jparallax/js/jquery.parallax.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/js/jquery.parallax.min.js" afterPath="$PROJECT_DIR$/app/package/jparallax/js/jquery.parallax.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/js/jquery.parallax_1.0.js" afterPath="$PROJECT_DIR$/app/package/jparallax/js/jquery.parallax_1.0.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/parallax.jquery.json" afterPath="$PROJECT_DIR$/app/package/jparallax/parallax.jquery.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/jparallax/test.html" afterPath="$PROJECT_DIR$/app/package/jparallax/test.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/.bower.json" afterPath="$PROJECT_DIR$/app/package/owl.carousel/.bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/.gitattributes" afterPath="$PROJECT_DIR$/app/package/owl.carousel/.gitattributes" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/.gitignore" afterPath="$PROJECT_DIR$/app/package/owl.carousel/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/.travis.yml" afterPath="$PROJECT_DIR$/app/package/owl.carousel/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/app/package/owl.carousel/CONTRIBUTING.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/Gruntfile.js" afterPath="$PROJECT_DIR$/app/package/owl.carousel/Gruntfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/LICENSE" afterPath="$PROJECT_DIR$/app/package/owl.carousel/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/README.md" afterPath="$PROJECT_DIR$/app/package/owl.carousel/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/_config.json" afterPath="$PROJECT_DIR$/app/package/owl.carousel/_config.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/bower.json" afterPath="$PROJECT_DIR$/app/package/owl.carousel/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/dist/LICENSE" afterPath="$PROJECT_DIR$/app/package/owl.carousel/dist/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/dist/README.md" afterPath="$PROJECT_DIR$/app/package/owl.carousel/dist/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/dist/assets/owl.carousel.css" afterPath="$PROJECT_DIR$/app/package/owl.carousel/dist/assets/owl.carousel.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/dist/assets/owl.carousel.min.css" afterPath="$PROJECT_DIR$/app/package/owl.carousel/dist/assets/owl.carousel.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/dist/assets/owl.theme.default.css" afterPath="$PROJECT_DIR$/app/package/owl.carousel/dist/assets/owl.theme.default.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/dist/assets/owl.theme.default.min.css" afterPath="$PROJECT_DIR$/app/package/owl.carousel/dist/assets/owl.theme.default.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/dist/assets/owl.theme.green.css" afterPath="$PROJECT_DIR$/app/package/owl.carousel/dist/assets/owl.theme.green.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/dist/assets/owl.theme.green.min.css" afterPath="$PROJECT_DIR$/app/package/owl.carousel/dist/assets/owl.theme.green.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/dist/owl.carousel.js" afterPath="$PROJECT_DIR$/app/package/owl.carousel/dist/owl.carousel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/dist/owl.carousel.min.js" afterPath="$PROJECT_DIR$/app/package/owl.carousel/dist/owl.carousel.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/css/animate.css" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/css/animate.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/css/docs.theme.min.css" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/css/docs.theme.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/js/app.js" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/js/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/js/foundation.min.js" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/js/foundation.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/owlcarousel/README.md" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/owlcarousel/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/owlcarousel/assets/owl.carousel.css" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/owlcarousel/assets/owl.carousel.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/owlcarousel/assets/owl.carousel.min.css" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/owlcarousel/assets/owl.carousel.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/owlcarousel/assets/owl.theme.default.css" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/owlcarousel/assets/owl.theme.default.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/owlcarousel/assets/owl.theme.default.min.css" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/owlcarousel/assets/owl.theme.default.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/owlcarousel/assets/owl.theme.green.css" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/owlcarousel/assets/owl.theme.green.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/owlcarousel/assets/owl.theme.green.min.css" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/owlcarousel/assets/owl.theme.green.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/owlcarousel/owl.carousel.js" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/owlcarousel/owl.carousel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/owlcarousel/owl.carousel.min.js" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/owlcarousel/owl.carousel.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/vendors/foundation.min.js" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/vendors/foundation.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/vendors/highlight.js" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/vendors/highlight.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/vendors/jquery.min.js" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/vendors/jquery.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/vendors/jquery.min.map" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/vendors/jquery.min.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/vendors/jquery.mousewheel.min.js" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/assets/vendors/jquery.mousewheel.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/demos/animate.html" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/demos/animate.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/demos/autoheight.html" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/demos/autoheight.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/demos/autoplay.html" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/demos/autoplay.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/demos/autowidth.html" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/demos/autowidth.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/demos/basic.html" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/demos/basic.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/demos/center.html" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/demos/center.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/demos/demos.html" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/demos/demos.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/demos/events.html" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/demos/events.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/demos/lazyLoad.html" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/demos/lazyLoad.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/demos/merge.html" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/demos/merge.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/demos/mousewheel.html" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/demos/mousewheel.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/demos/responsive.html" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/demos/responsive.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/demos/rtl.html" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/demos/rtl.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/demos/stagepadding.html" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/demos/stagepadding.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/demos/test.html" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/demos/test.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/demos/urlhashnav.html" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/demos/urlhashnav.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/demos/video.html" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/demos/video.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/docs/api-classes.html" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/docs/api-classes.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/docs/api-events.html" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/docs/api-events.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/docs/api-options.html" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/docs/api-options.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/docs/dev-buildin-plugins.html" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/docs/dev-buildin-plugins.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/docs/dev-external.html" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/docs/dev-external.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/docs/dev-plugin-api.html" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/docs/dev-plugin-api.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/docs/dev-styles.html" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/docs/dev-styles.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/docs/started-faq.html" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/docs/started-faq.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/docs/started-installation.html" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/docs/started-installation.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/docs/started-welcome.html" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/docs/started-welcome.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/docs/support-changelog.html" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/docs/support-changelog.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/docs/support-contact.html" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/docs/support-contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/docs/support-contributing.html" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/docs/support-contributing.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs/index.html" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/css/animate.css" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/css/animate.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/js/app.js" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/js/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/js/foundation.min.js" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/js/foundation.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/scss/_settings.scss" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/scss/_settings.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/scss/custom.scss" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/scss/custom.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/scss/demos.scss" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/scss/demos.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/scss/docs.scss" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/scss/docs.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/scss/docs.theme.scss" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/scss/docs.theme.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/scss/highlight.scss" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/scss/highlight.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/vendors/foundation.min.js" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/vendors/foundation.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/vendors/highlight.js" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/vendors/highlight.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/vendors/jquery.min.js" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/vendors/jquery.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/vendors/jquery.min.map" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/assets/vendors/jquery.min.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/data/classes.json" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/data/classes.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/data/events.json" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/data/events.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/data/features.json" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/data/features.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/data/options.json" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/data/options.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/helpers/modulo.js" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/helpers/modulo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/helpers/test.js" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/helpers/test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/layouts/demos.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/layouts/demos.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/layouts/docs.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/layouts/docs.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/layouts/home.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/layouts/home.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/demos/animate.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/demos/animate.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/demos/autoheight.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/demos/autoheight.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/demos/autoplay.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/demos/autoplay.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/demos/autowidth.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/demos/autowidth.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/demos/basic.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/demos/basic.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/demos/center.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/demos/center.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/demos/demos.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/demos/demos.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/demos/events.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/demos/events.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/demos/lazyLoad.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/demos/lazyLoad.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/demos/merge.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/demos/merge.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/demos/mousewheel.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/demos/mousewheel.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/demos/responsive.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/demos/responsive.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/demos/rtl.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/demos/rtl.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/demos/stagepadding.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/demos/stagepadding.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/demos/test.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/demos/test.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/demos/urlhashnav.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/demos/urlhashnav.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/demos/video.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/demos/video.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/docs/api-classes.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/docs/api-classes.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/docs/api-events.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/docs/api-events.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/docs/api-options.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/docs/api-options.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/docs/dev-buildin-plugins.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/docs/dev-buildin-plugins.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/docs/dev-external.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/docs/dev-external.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/docs/dev-plugin-api.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/docs/dev-plugin-api.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/docs/dev-styles.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/docs/dev-styles.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/docs/started-faq.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/docs/started-faq.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/docs/started-installation.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/docs/started-installation.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/docs/started-welcome.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/docs/started-welcome.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/docs/support-changelog.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/docs/support-changelog.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/docs/support-contact.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/docs/support-contact.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/docs/support-contributing.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/docs/support-contributing.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/index.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/pages/index.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/partials/footer.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/partials/footer.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/partials/head.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/partials/head.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/partials/header.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/partials/header.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/partials/home-carousel.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/partials/home-carousel.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/partials/home-features.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/partials/home-features.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/partials/home-hero.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/partials/home-hero.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/partials/home-teaser-text.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/partials/home-teaser-text.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/partials/javascripts.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/partials/javascripts.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/partials/sidenav-docs.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/partials/sidenav-docs.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/partials/title.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/partials/title.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/partials/vendors.hbs" afterPath="$PROJECT_DIR$/app/package/owl.carousel/docs_src/templates/partials/vendors.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/package.json" afterPath="$PROJECT_DIR$/app/package/owl.carousel/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/src/js/.jscsrc" afterPath="$PROJECT_DIR$/app/package/owl.carousel/src/js/.jscsrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/src/js/.jshintrc" afterPath="$PROJECT_DIR$/app/package/owl.carousel/src/js/.jshintrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/src/js/owl.animate.js" afterPath="$PROJECT_DIR$/app/package/owl.carousel/src/js/owl.animate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/src/js/owl.autoheight.js" afterPath="$PROJECT_DIR$/app/package/owl.carousel/src/js/owl.autoheight.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/src/js/owl.autoplay.js" afterPath="$PROJECT_DIR$/app/package/owl.carousel/src/js/owl.autoplay.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/src/js/owl.autorefresh.js" afterPath="$PROJECT_DIR$/app/package/owl.carousel/src/js/owl.autorefresh.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/src/js/owl.carousel.js" afterPath="$PROJECT_DIR$/app/package/owl.carousel/src/js/owl.carousel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/src/js/owl.hash.js" afterPath="$PROJECT_DIR$/app/package/owl.carousel/src/js/owl.hash.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/src/js/owl.lazyload.js" afterPath="$PROJECT_DIR$/app/package/owl.carousel/src/js/owl.lazyload.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/src/js/owl.navigation.js" afterPath="$PROJECT_DIR$/app/package/owl.carousel/src/js/owl.navigation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/src/js/owl.support.js" afterPath="$PROJECT_DIR$/app/package/owl.carousel/src/js/owl.support.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/src/js/owl.support.modernizr.js" afterPath="$PROJECT_DIR$/app/package/owl.carousel/src/js/owl.support.modernizr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/src/js/owl.video.js" afterPath="$PROJECT_DIR$/app/package/owl.carousel/src/js/owl.video.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/src/scss/_animate.scss" afterPath="$PROJECT_DIR$/app/package/owl.carousel/src/scss/_animate.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/src/scss/_autoheight.scss" afterPath="$PROJECT_DIR$/app/package/owl.carousel/src/scss/_autoheight.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/src/scss/_core.scss" afterPath="$PROJECT_DIR$/app/package/owl.carousel/src/scss/_core.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/src/scss/_lazyload.scss" afterPath="$PROJECT_DIR$/app/package/owl.carousel/src/scss/_lazyload.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/src/scss/_theme.default.scss" afterPath="$PROJECT_DIR$/app/package/owl.carousel/src/scss/_theme.default.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/src/scss/_theme.green.scss" afterPath="$PROJECT_DIR$/app/package/owl.carousel/src/scss/_theme.green.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/src/scss/_theme.scss" afterPath="$PROJECT_DIR$/app/package/owl.carousel/src/scss/_theme.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/src/scss/_video.scss" afterPath="$PROJECT_DIR$/app/package/owl.carousel/src/scss/_video.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/src/scss/owl.carousel.scss" afterPath="$PROJECT_DIR$/app/package/owl.carousel/src/scss/owl.carousel.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/src/scss/owl.theme.default.scss" afterPath="$PROJECT_DIR$/app/package/owl.carousel/src/scss/owl.theme.default.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/src/scss/owl.theme.green.scss" afterPath="$PROJECT_DIR$/app/package/owl.carousel/src/scss/owl.theme.green.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/test/index.html" afterPath="$PROJECT_DIR$/app/package/owl.carousel/test/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/package/owl.carousel/test/unit/core.js" afterPath="$PROJECT_DIR$/app/package/owl.carousel/test/unit/core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/php/send.php" afterPath="$PROJECT_DIR$/app/php/send.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/product.html" afterPath="$PROJECT_DIR$/app/product.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scss/mixins.scss" afterPath="$PROJECT_DIR$/app/scss/mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scss/style-responsive.scss" afterPath="$PROJECT_DIR$/app/scss/style-responsive.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scss/style.scss" afterPath="$PROJECT_DIR$/app/scss/style.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scss/vars.scss" afterPath="$PROJECT_DIR$/app/scss/vars.scss" />
+    </list>
     <ignored path="kiddo.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -22,15 +322,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="product.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="product.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/product.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="471" column="83" selection-start-line="471" selection-start-column="83" selection-end-line="471" selection-end-column="83" />
+            <state relative-caret-position="527">
+              <caret line="528" column="60" selection-start-line="528" selection-start-column="60" selection-end-line="528" selection-end-column="60" />
               <folding>
-                <element signature="n#style#0;n#span#0;n#span#0;n#p#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#span#1;n#p#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#span#2;n#p#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -39,18 +337,18 @@
       <file leaf-file-name="style.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scss/style.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="1315" column="0" selection-start-line="1315" selection-start-column="0" selection-end-line="1315" selection-end-column="0" />
+            <state relative-caret-position="663">
+              <caret line="1344" column="22" selection-start-line="1344" selection-start-column="22" selection-end-line="1344" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style-responsive.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style-responsive.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scss/style-responsive.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="699">
-              <caret line="530" column="20" selection-start-line="530" selection-start-column="20" selection-end-line="530" selection-end-column="20" />
+            <state relative-caret-position="8568">
+              <caret line="504" column="16" selection-start-line="504" selection-start-column="16" selection-end-line="504" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -59,8 +357,8 @@
       <file leaf-file-name="scripts.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/js/scripts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="725">
-              <caret line="174" column="50" selection-start-line="174" selection-start-column="50" selection-end-line="174" selection-end-column="50" />
+            <state relative-caret-position="2448">
+              <caret line="144" column="41" selection-start-line="144" selection-start-column="41" selection-end-line="144" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -78,6 +376,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -87,9 +388,9 @@
         <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/all.html" />
         <option value="$PROJECT_DIR$/app/js/scripts.js" />
-        <option value="$PROJECT_DIR$/app/product.html" />
-        <option value="$PROJECT_DIR$/app/scss/style.scss" />
         <option value="$PROJECT_DIR$/app/scss/style-responsive.scss" />
+        <option value="$PROJECT_DIR$/app/scss/style.scss" />
+        <option value="$PROJECT_DIR$/app/product.html" />
       </list>
     </option>
   </component>
@@ -111,9 +412,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="873" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -140,7 +440,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -247,13 +547,13 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lime" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../parusan" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -310,15 +610,17 @@
       <workItem from="1482311488289" duration="29532000" />
       <workItem from="1482416170881" duration="4821000" />
       <workItem from="1482741709343" duration="394000" />
-      <workItem from="1482742821076" duration="18461000" />
+      <workItem from="1482742821076" duration="18954000" />
+      <workItem from="1482826107341" duration="1280000" />
+      <workItem from="1482847868668" duration="524000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110695000" />
+    <option name="totallyTimeSpent" value="112992000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="873" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -360,12 +662,70 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/product.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scss/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22355">
+          <caret line="1315" column="0" selection-start-line="1315" selection-start-column="0" selection-end-line="1315" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scss/style-responsive.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8568">
+          <caret line="504" column="16" selection-start-line="504" selection-start-column="16" selection-end-line="504" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2958">
+          <caret line="174" column="50" selection-start-line="174" selection-start-column="50" selection-end-line="174" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scss/vars.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/product.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scss/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22355">
+          <caret line="1315" column="0" selection-start-line="1315" selection-start-column="0" selection-end-line="1315" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/product.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6409">
           <caret line="377" column="56" selection-start-line="377" selection-start-column="56" selection-end-line="377" selection-end-column="56" />
           <folding>
-            <element signature="n#style#0;n#span#0;n#span#0;n#p#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#span#1;n#p#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#span#2;n#p#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -374,7 +734,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2584">
           <caret line="152" column="29" selection-start-line="152" selection-start-column="29" selection-end-line="152" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -382,7 +741,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2771">
           <caret line="163" column="16" selection-start-line="163" selection-start-column="16" selection-end-line="165" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -423,9 +781,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#span#0;n#span#0;n#p#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#span#1;n#p#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#span#2;n#p#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -434,7 +790,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2584">
           <caret line="152" column="29" selection-start-line="152" selection-start-column="29" selection-end-line="152" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -442,7 +797,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2771">
           <caret line="163" column="16" selection-start-line="163" selection-start-column="16" selection-end-line="165" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -451,9 +805,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#span#0;n#span#0;n#p#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#span#1;n#p#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#span#2;n#p#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -463,9 +815,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#span#0;n#span#0;n#p#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#span#1;n#p#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#span#2;n#p#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -498,7 +848,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3910">
           <caret line="230" column="148" selection-start-line="230" selection-start-column="148" selection-end-line="230" selection-end-column="148" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -530,7 +879,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2737">
           <caret line="161" column="49" selection-start-line="161" selection-start-column="49" selection-end-line="161" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -561,7 +909,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -576,7 +923,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2771">
           <caret line="163" column="16" selection-start-line="163" selection-start-column="16" selection-end-line="165" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -584,6 +930,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="716">
           <caret line="152" column="29" selection-start-line="152" selection-start-column="29" selection-end-line="152" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scss/style-responsive.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8568">
+          <caret line="504" column="16" selection-start-line="504" selection-start-column="16" selection-end-line="504" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2448">
+          <caret line="144" column="41" selection-start-line="144" selection-start-column="41" selection-end-line="144" selection-end-column="41" />
           <folding />
         </state>
       </provider>
@@ -596,39 +957,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/scripts.js">
+    <entry file="file://$PROJECT_DIR$/app/scss/style.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="174" column="50" selection-start-line="174" selection-start-column="50" selection-end-line="174" selection-end-column="50" />
+        <state relative-caret-position="663">
+          <caret line="1344" column="22" selection-start-line="1344" selection-start-column="22" selection-end-line="1344" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/product.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="471" column="83" selection-start-line="471" selection-start-column="83" selection-end-line="471" selection-end-column="83" />
+        <state relative-caret-position="527">
+          <caret line="528" column="60" selection-start-line="528" selection-start-column="60" selection-end-line="528" selection-end-column="60" />
           <folding>
-            <element signature="n#style#0;n#span#0;n#span#0;n#p#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#span#1;n#p#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#span#2;n#p#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scss/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="1315" column="0" selection-start-line="1315" selection-start-column="0" selection-end-line="1315" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scss/style-responsive.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="699">
-          <caret line="530" column="20" selection-start-line="530" selection-start-column="20" selection-end-line="530" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>

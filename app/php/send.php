@@ -22,41 +22,47 @@ function send_mime_mail($name_from, $email_from, $name_to, $email_to, $data_char
 if(!empty($_POST)){
 	$arUsers = array(
 		array(
-			"NAME"=>"PARUSAN",
+			"NAME"=>"KIDDO",
 			"EMAIL"=>"alexrewrew@live.com"
 		),
-        array(
+        /*array(
 			"NAME"=>"PARUSAN",
 			"EMAIL"=>"alexrew2012@gmail.com"
-		),
-        array(
-			"NAME"=>"PARUSAN",
-			"EMAIL"=>"alex@volta.one"
-		),
+		),*/
+		//Потом подставить тут свои имейлы
 	);
 
-    $message = '';
-    $message .= "<b>Ім'я:</b><br/>".$_POST['name']."<br/><br/>";
-    $message .= "<b>Прізвище:</b><br/>".$_POST['sername']."<br/><br/>";
-    $message .= '<b>Телефон:</b><br/>'.$_POST['tel'].'<br/><br/>';
-    $message .= '<b>Email:</b><br/>'.$_POST['email'].'<br/><br/>';
-    $message .= '<b>Тоник</b><br/><br/>';
-    $message .= '<b>Код:</b> 242678<br/><br/>';
-    $message .= '<b>Ціна:</b> 350 грн<br/><br/>';
-	$message .= '<b>Кількість:</b><br/>'.$_POST['kol1'].'<br/><br/>';
-	$message .= '<b>Шампунь</b><br/><br/>';
-	$message .= '<b>Код:</b> 242678<br/><br/>';
-	$message .= '<b>Ціна:</b> 700 грн<br/><br/>';
-	$message .= '<b>Кількість:</b><br/>'.$_POST['kol2'].'<br/><br/>';
-	$message .= '<b>Загальна кількість:</b><br/>'.$_POST['kol'].'<br/><br/>';
-	$message .= '<b>Загальна сумма:</b><br/>'.$_POST['price'].'<br/><br/>';
-	$message .= '<b>Спосіб доставки:</b><br/>'.$_POST['dost'].'<br/><br/>';
-	if (!empty($_POST['adress'])) {
-		$message .= '<b>Адреса:</b><br/>'.$_POST['adress'].'<br/><br/>';
+	$message = "";
+	$message .= "<b>Имя: </b>" . $_POST['name'] . "<br>";
+	$message .= "<b>Фамилия: </b>" . $_POST['serName'] . "<br>";
+	$message .= "<b>Email: </b>" . $_POST['email'] . "<br>";
+	$message .= "<b>Телефон: </b>" . $_POST['tel'] . "<br><br>";
+
+	$message .= "<b>Товар: </b>" . $_POST['tovar'] . "<br>";
+	$message .= "<b>Количество: </b>" . $_POST['col'] . "<br>";
+	$message .= "<b>Цена за единицу: </b>" . $_POST['price'] . "<br>";
+	$message .= "<b>Общая сумма: </b>" . $_POST['summ'] . "<br>";
+	$message .= "<b>Цвета: </b>" . $_POST['colors'] . "<br><br>";
+
+	$message .= "<b>Способ доставки: </b>" . $_POST['spos'] . "<br><br>";
+	if ($_POST['sposNum'] == "1") {
+		$message .= "<b>Город: </b>" . $_POST['city'] . "<br>";
+		$message .= "<b>Улица: </b>" . $_POST['street'] . "<br>";
+		$message .= "<b>Дом: </b>" . $_POST['build'] . "<br>";
+		if (!empty($_POST['kv'])) {
+			$message .= "<b>Квартира: </b>" . $_POST['kv'] . "<br>";
+		}
+	} else {
+		$message .= "<b>Город: </b>" . $_POST['cityNP'] . "<br>";
+		$message .= "<b>Отделение Новой Почты: </b>" . $_POST['numNP'] . "<br>";
+	}
+	if (!empty($_POST['comment'])) {
+		$message .= "<b>Комментарий: </b>" . $_POST['comment'] . "<br>";
 	}
 
 	foreach ($arUsers as $Item){
-		$r = send_mime_mail("PARUSAN", "delivery@farmastor.com", $Item['NAME'], $Item['EMAIL'], 'utf-8', 'utf-8', "Замовлення на сайті PARUSAN", $message);
+		$r = send_mime_mail("KIDDO", "kiddo@gmail.com", $Item['NAME'], $Item['EMAIL'], 'utf-8', 'utf-8', "Замовлення на сайті KIDDO", $message);
+		//потом тут тоже на правильное поменяешь
 	}
 }
 ?>

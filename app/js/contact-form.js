@@ -1,202 +1,293 @@
 $(document).ready(function () {
-    $("#contact-form").submit(function (e) {
+    $(".modalTarget").click(function () {
+        var price = parseInt($(this).children(".priceTovar").html());
+        var name = $("#nameTovarForModal").html();
+        $(".sumTovar").html(price);
+        $(".priceForOne").html(price);
+        $(".nameTovarModal").html(name);
+    });
 
-        $(".errorForm").removeClass("errorForm");
-        $(".errorFormNum").removeClass("errorFormNum");
-        $('.send_success').fadeOut();
-        $('.send_error').fadeOut();
+    $(".minusCol").click(function () {
+        var inp = parseInt($("#inputCol").val());
+        if (inp != 1) {
+            inp--;
+            $("#inputCol").val(inp);
+            var price = parseInt($(".priceForOne").html());
+            price *= inp;
+            $(".sumTovar").html(price);
+        }
+    });
 
+    $(".plusCol").click(function () {
+        var inp = parseInt($("#inputCol").val());
+        inp++;
+        $("#inputCol").val(inp);
+
+        var price = parseInt($(".priceForOne").html());
+        price *= inp;
+        $(".sumTovar").html(price);
+    });
+
+    $('#inputCol').bind("keyup input", function () {
+        if (this.value.match(/[^0-9]/g)) {
+            this.value = this.value.replace(/[^0-9]/g, '');
+        }
+        if (this.value == "") {
+            this.value = 1;
+        } else if (this.value == "0") {
+            this.value = 1;
+        }
+
+        var inp = parseInt($("#inputCol").val());
+        var price = parseInt($(".priceForOne").html());
+        price *= inp;
+        $(".sumTovar").html(price);
+    });
+
+    $(".color_choice").click(function () {
+        if ($(this).hasClass("color_choisen")) {
+            $(this).removeClass("color_choisen");
+        } else {
+            var col = parseInt($("#inputCol").val());
+            var colColors = $(".color_choisen").length;
+
+            if (col > colColors) {
+                $(this).addClass("color_choisen");
+            }
+            $(".color_choice").removeClass("errorForColors");
+        }
+    });
+
+    $('#next1').click(function () {
+        var name = $(".nameTovarModal").html();
+
+        if (name != "") {
+            var col = parseInt($("#inputCol").val());
+            if (col > 0) {
+                var colColors = $(".color_choisen").length;
+                if (colColors > 0) {
+                    var text = name + ", количество " + col + " шт., цвет ";
+
+                    $(".color_choisen").each(function (i, elem) {
+                        text += $(elem).children(".nameColor").html().toLowerCase();
+                        text += ", ";
+                    });
+
+                    text = text.substr(0, text.length - 2);
+
+                    $(".choices_data").html(text);
+                    $('#step1').css('display', 'none');
+                    $('#step2').css('display', 'block');
+                } else {
+                    $(".color_choice").addClass("errorForColors");
+                }
+            }
+        }
+        $(".error_input").removeClass("error_input");
+    });
+    $('#prev2').click(function () {
+        $('#step1').css('display', 'block');
+        $('#step2').css('display', 'none');
+        $(".error_input").removeClass("error_input");
+    });
+    $('#next2').click(function () {
+        $(".error_input").removeClass("error_input");
+        $("#errorForStepTwo").html("");
+
+        if ($("#nameCustomer").val() == "") {
+            $("#nameCustomer").addClass("error_input");
+            $("#errorForStepTwo").html("Заполните все обязательные поля");
+        }
+
+        if ($("#serNameCustomer").val() == "") {
+            $("#serNameCustomer").addClass("error_input");
+            $("#errorForStepTwo").html("Заполните все обязательные поля");
+        }
+
+        if ($("#emailCustomer").val() == "") {
+            $("#emailCustomer").addClass("error_input");
+            $("#errorForStepTwo").html("Заполните все обязательные поля");
+        } else if (!(/^[a-zA-Z0-9.!#$%&’*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/.test($("#emailCustomer").val()))) {
+            $("#emailCustomer").addClass("error_input");
+            $("#errorForStepTwo").html("Неверный формат ввода");
+        }
+
+        if ($("#telCustomer").val() == "") {
+            $("#telCustomer").addClass("error_input");
+            $("#errorForStepTwo").html("Заполните все обязательные поля");
+        } else if (!(/[0-9]{3}[0-9]{3}[0-9]{2}[0-9]{2}$/.test($("#telCustomer").val()))) {
+            $("#telCustomer").addClass("error_input");
+            $("#errorForStepTwo").html("Формат ввода 0501235693");
+        }
+
+        if ($("#errorForStepTwo").html() == "") {
+            $('#step2').css('display', 'none');
+            $('#step3').css('display', 'block');
+        } else {
+            $("#errorForStepTwo").slideDown();
+        }
+    });
+
+    $("#nameCustomer").keyup(function () {
+        $(this).removeClass("error_input");
+        if ($(".error_input").length == 0) {
+            $("#errorForStepTwo").html("");
+            $("#errorForStepTwo").slideUp();
+        }
+    });
+
+    $("#serNameCustomer").keyup(function () {
+        $(this).removeClass("error_input");
+        if ($(".error_input").length == 0) {
+            $("#errorForStepTwo").html("");
+            $("#errorForStepTwo").slideUp();
+        }
+    });
+
+    $("#emailCustomer").keyup(function () {
+        $(this).removeClass("error_input");
+        if ($(".error_input").length == 0) {
+            $("#errorForStepTwo").html("");
+            $("#errorForStepTwo").slideUp();
+        }
+    });
+
+    $("#telCustomer").keyup(function () {
+        $(this).removeClass("error_input");
+        if ($(".error_input").length == 0) {
+            $("#errorForStepTwo").html("");
+            $("#errorForStepTwo").slideUp();
+        }
+    });
+
+    $('#prev3').click(function () {
+        $('#step2').css('display', 'block');
+        $('#step3').css('display', 'none');
+        $(".error_input").removeClass("error_input");
+    });
+
+    $('input[type="radio"]').click(function () {
+        $(".error_input").removeClass("error_input");
+        if ($('#address1').is(':checked')) {
+            $('#curier').css('display', 'block');
+            $('#novaposhta').css('display', 'none');
+        }
+        if ($('#address2').is(':checked')) {
+            $('#curier').css('display', 'none');
+            $('#novaposhta').css('display', 'block');
+        }
+    });
+
+    $("#order").click(function () {
         var send = true;
 
-        if ($("#name").val() == "") {
-            send = false;
-            $("#name").addClass("errorForm");
-            $('#myModal').animate({
-                scrollTop: $('#modal_top').offset().top
-            }, 1500);
-            $('#send_error').fadeIn('fast');
+        var tovar = $("#nameTovarForModal").html();
+        var price = parseInt($(".priceForOne").html());
+        var col = parseInt($("#inputCol").val());
+        var colors = "";
+        $(".color_choisen").each(function (i, elem) {
+            colors += $(elem).children(".nameColor").html().toLowerCase();
+            colors += ", ";
+        });
+        colors = colors.substr(0, colors.length - 2);
+        var summ = parseInt($(".sumTovar").html());
+        var name = $("#nameCustomer").val();
+        var serName = $("#serNameCustomer").val();
+        var email = $("#emailCustomer").val();
+        var tel = $("#telCustomer").val();
+        if ($("#address1").prop("checked")) {
+            var spos = $("#address1").parent().text();
+            var sposNum = 1;
+        } else {
+            var spos = $("#address2").parent().text();
+            var sposNum = 2;
         }
-        if ($("#sername").val() == "") {
-            send = false;
-            $("#sername").addClass("errorForm");
-            $('#myModal').animate({
-                scrollTop: $('#modal_top').offset().top
-            }, 1500);
-            $('#send_error').fadeIn('fast');
-        }
-        if ($("#tel").val() == "") {
-            send = false;
-            $("#tel").addClass("errorForm");
-            $('#myModal').animate({
-                scrollTop: $('#modal_top').offset().top
-            }, 1500);
-            $('#send_error').fadeIn('fast');
-        }
-        if ($("#email").val() == "") {
-            send = false;
-            $("#email").addClass("errorForm");
-            $('#myModal').animate({
-                scrollTop: $('#modal_top').offset().top
-            }, 1500);
-            $('#send_error').fadeIn('fast');
-        }
+        var city = $("#cityCustomer").val();
+        var street = $("#streetCustomer").val();
+        var build = $("#buildCustomer").val();
+        var kv = $("#kvCustomer").val();
 
-        if ($("#dost").val() == null) {
-            send = false;
-            $("#dost").addClass("errorForm");
-            $('#myModal').animate({
-                scrollTop: $('#modal_top').offset().top
-            }, 1500);
-            $('#send_error').fadeIn('fast');
-        }
+        var cityNP = $("#cityCustomerNP").val();
+        var numNP = $("#numNPCustomer").val();
+        
+        var comment = $("#commentCustomer").val();
 
-        if ($("#adress").val() == "") {
-            if ($("#dost").val() != "Самовивіз") {
+        if ($("#address1").prop("checked")) {
+            if (city == "") {
+                $("#cityCustomer").addClass("error_input");
                 send = false;
-                $("#adress").addClass("errorForm");
-                $('#myModal').animate({
-                    scrollTop: $('#modal_top').offset().top
-                }, 1500);
-                $('#send_error').fadeIn('fast');
+            }
+            if (street == "") {
+                $("#streetCustomer").addClass("error_input");
+                send = false;
+            }
+            if (build == "") {
+                $("#buildCustomer").addClass("error_input");
+                send = false;
+            }
+        } else {
+            if (cityNP == "") {
+                $("#cityCustomerNP").addClass("error_input");
+                send = false;
+            }
+            if (numNP == "") {
+                $("#numNPCustomer").addClass("error_input");
+                send = false;
             }
         }
 
-        if ($("#count").val() == "0") {
-            send = false;
-            $("#count").addClass("errorFormNum");
-            $("#count_price").addClass("errorFormNum");
-            $(".plus1").addClass("errorFormNum");
-            $(".plus2").addClass("errorFormNum");
-            $(".minus1").addClass("errorFormNum");
-            $(".minus2").addClass("errorFormNum");
-            $('#send_error').fadeIn('fast');
-        }
-
-
         if (send) {
-            var name = $("#name").val();
-            var sername = $("#sername").val();
-            var tel = $("#tel").val();
-            var email = $("#email").val();
-            var kol1 = $("#pm1").val();
-            var kol2 = $("#pm2").val();
-            var kol = $("#count").val();
-            var price = $("#count_price").val();
-            var dost = $("#dost").val();
-            var adress = $("#adress").val();
-
             $.ajax({
                 method: "POST",
                 url: "php/send.php",
                 data: {
                     name: name,
-                    sername: sername,
+                    serName: serName,
                     email: email,
                     tel: tel,
-                    kol: kol,
+                    tovar: tovar,
+                    col: col,
+                    colors: colors,
                     price: price,
-                    dost: dost,
-                    adress: adress,
-                    kol1: kol1,
-                    kol2: kol2
+                    summ: summ,
+                    spos: spos,
+                    sposNum: sposNum,
+                    city: city,
+                    cityNP: cityNP,
+                    street: street,
+                    build: build,
+                    kv: kv,
+                    numNP: numNP,
+                    comment: comment
                 },
                 success: function (data) {
                     if (data == "") {
-                        $('#contact-form').trigger("reset");
-                        $("#okform").html("Замовлено");
-                        $('#myModal').animate({
-                            scrollTop: $('#modal_top').offset().top
-                        }, 1500);
-                        $('#send_error').fadeOut('fast');
-                        $('#send_success').fadeIn('fast');
+                        $("#order").html("");
+                    } else {
+
                     }
                 }
             });
-
-        }
-        e.preventDefault();
-    });
-
-    $("#name").change(function () {
-        $(this).removeClass("errorForm");
-    });
-
-    $("#sername").change(function () {
-        $(this).removeClass("errorForm");
-    });
-
-    $("#email").change(function () {
-        $(this).removeClass("errorForm");
-    });
-
-    $("#tel").change(function () {
-        $(this).removeClass("errorForm");
-    });
-
-    $("#dost").change(function () {
-        $(this).removeClass("errorForm");
-        if ($(this).val() == "Самовивіз") {
-            $("#adress").removeClass("errorForm");
         }
     });
 
-    $("#adress").change(function () {
-        $(this).removeClass("errorForm");
+    $("#cityCustomer").keyup(function () {
+        $(this).removeClass("error_input");
     });
 
-    $(".plus1").click(function () {
-        var c = parseInt($("#count").val());
-        c++;
-        $("#count").val(c);
-        var p = parseInt($("#count_price").val());
-        p += 350;
-        $("#count_price").val(p);
-        k = parseInt($("#pm1").val());
-        k++;
-        $("#pm1").val(k);
-        $(".errorFormNum").removeClass("errorFormNum");
+    $("#streetCustomer").keyup(function () {
+        $(this).removeClass("error_input");
     });
 
-    $(".plus2").click(function () {
-        var c = parseInt($("#count").val());
-        c++;
-        $("#count").val(c);
-        var p = parseInt($("#count_price").val());
-        p += 700;
-        $("#count_price").val(p);
-        k = parseInt($("#pm2").val());
-        k++;
-        $("#pm2").val(k);
-        $(".errorFormNum").removeClass("errorFormNum");
+    $("#buildCustomer").keyup(function () {
+        $(this).removeClass("error_input");
     });
 
-    $(".minus1").click(function () {
-        var c = parseInt($("#count").val());
-        if (c != 0) {
-            c--;
-            $("#count").val(c);
-            var p = parseInt($("#count_price").val());
-            p -= 350;
-            $("#count_price").val(p);
-            k = parseInt($("#pm1").val());
-            k--;
-            $("#pm1").val(k);
-            $(".errorFormNum").removeClass("errorFormNum");
-        }
+    $("#cityCustomerNP").keyup(function () {
+        $(this).removeClass("error_input");
     });
 
-    $(".minus2").click(function () {
-        var c = parseInt($("#count").val());
-        if (c != 0) {
-            c--;
-            $("#count").val(c);
-            var p = parseInt($("#count_price").val());
-            p -= 700;
-            $("#count_price").val(p);
-            k = parseInt($("#pm2").val());
-            k--;
-            $("#pm2").val(k);
-            $(".errorFormNum").removeClass("errorFormNum");
-        }
+    $("#numNPCustomer").keyup(function () {
+        $(this).removeClass("error_input");
     });
 });

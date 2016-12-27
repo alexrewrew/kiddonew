@@ -146,34 +146,4 @@ $(document).ready(function () {
      });*/
 
     //new parallax
-
-    //big modal shit
-    $('#next1').click(function () {
-        $('#step1').css('display', 'none');
-        $('#step2').css('display', 'block');
-    });
-    $('#prev2').click(function () {
-        $('#step1').css('display', 'block');
-        $('#step2').css('display', 'none');
-    });
-    $('#next2').click(function () {
-        $('#step2').css('display', 'none');
-        $('#step3').css('display', 'block');
-    });
-    $('#prev3').click(function () {
-        $('#step2').css('display', 'block');
-        $('#step3').css('display', 'none');
-    });
-
-    $('input[type="radio"]').click(function () {
-        if ($('#address1').is(':checked')) {
-            $('#curier').css('display', 'block');
-            $('#novaposhta').css('display', 'none');
-        }
-        if ($('#address2').is(':checked')) {
-            $('#curier').css('display', 'none');
-            $('#novaposhta').css('display', 'block');
-        }
-    });
-
 });
