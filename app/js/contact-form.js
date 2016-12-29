@@ -2,9 +2,25 @@ $(document).ready(function () {
     $(".modalTarget").click(function () {
         var price = parseInt($(this).children(".priceTovar").html());
         var name = $("#nameTovarForModal").html();
-        $(".sumTovar").html(price);
         $(".priceForOne").html(price);
         $(".nameTovarModal").html(name);
+
+        var inp = parseInt($("#inputCol").val());
+        var price = parseInt($(".priceForOne").html());
+        price *= inp;
+        $(".sumTovar").html(price);
+
+        if ($('#address1').is(':checked')) {
+            $('#curier').css('display', 'block');
+            $('#novaposhta').css('display', 'none');
+        }
+        if ($('#address2').is(':checked')) {
+            $('#curier').css('display', 'none');
+            $('#novaposhta').css('display', 'block');
+            var price = parseInt($(".sumTovar").html());
+            price += 45;
+            $(".sumTovar").html(price);
+        }
     });
 
     $(".minusCol").click(function () {
@@ -55,6 +71,7 @@ $(document).ready(function () {
                 $(this).addClass("color_choisen");
             }
             $(".color_choice").removeClass("errorForColors");
+            $("#errPForColors").slideUp();
         }
     });
 
@@ -80,6 +97,7 @@ $(document).ready(function () {
                     $('#step2').css('display', 'block');
                 } else {
                     $(".color_choice").addClass("errorForColors");
+                    $("#errPForColors").slideDown();
                 }
             }
         }
@@ -166,15 +184,21 @@ $(document).ready(function () {
         $(".error_input").removeClass("error_input");
     });
 
-    $('input[type="radio"]').click(function () {
+    $('input[type="radio"]').change(function () {
         $(".error_input").removeClass("error_input");
         if ($('#address1').is(':checked')) {
             $('#curier').css('display', 'block');
             $('#novaposhta').css('display', 'none');
+            var price = parseInt($(".sumTovar").html());
+            price -= 45;
+            $(".sumTovar").html(price);
         }
         if ($('#address2').is(':checked')) {
             $('#curier').css('display', 'none');
             $('#novaposhta').css('display', 'block');
+            var price = parseInt($(".sumTovar").html());
+            price += 45;
+            $(".sumTovar").html(price);
         }
     });
 
