@@ -1344,6 +1344,10 @@ label {
 #step4 {
   display: none;
   @include transition;
+  height: 590px;
+  .modal_header_row {
+    padding-top: 9%;
+  }
 }
 
 #novaposhta {

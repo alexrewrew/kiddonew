@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="d21a6799-fc58-44d8-afea-368e02040ee0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/css/style.css" afterPath="$PROJECT_DIR$/app/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/scripts.min.js" afterPath="$PROJECT_DIR$/app/js/scripts.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/product.html" afterPath="$PROJECT_DIR$/app/product.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scss/style-responsive.scss" afterPath="$PROJECT_DIR$/app/scss/style-responsive.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scss/style.scss" afterPath="$PROJECT_DIR$/app/scss/style.scss" />
     </list>
     <ignored path="kiddo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,8 +32,8 @@
       <file leaf-file-name="product.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/product.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1600">
-              <caret line="508" column="34" selection-start-line="508" selection-start-column="34" selection-end-line="508" selection-end-column="34" />
+            <state relative-caret-position="493">
+              <caret line="536" column="22" selection-start-line="536" selection-start-column="22" selection-end-line="536" selection-end-column="22" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -39,8 +44,8 @@
       <file leaf-file-name="style.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scss/style.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21454">
-              <caret line="1262" column="13" selection-start-line="1262" selection-start-column="13" selection-end-line="1262" selection-end-column="13" />
+            <state relative-caret-position="553">
+              <caret line="1348" column="18" selection-start-line="1348" selection-start-column="18" selection-end-line="1348" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -50,8 +55,12 @@
         <entry file="file://$PROJECT_DIR$/app/js/contact-form.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="4097">
-              <caret line="241" column="22" selection-start-line="241" selection-start-column="22" selection-end-line="241" selection-end-column="22" />
-              <folding />
+              <caret line="265" column="22" selection-start-line="265" selection-start-column="22" selection-end-line="265" selection-end-column="22" />
+              <folding>
+                <marker date="1483016674000" expanded="true" signature="72:207" placeholder="{...}" />
+                <marker date="1483016674000" expanded="true" signature="7060:7072" placeholder="{...}" />
+                <marker date="1483016674000" expanded="true" signature="7060:7078" placeholder="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -69,8 +78,8 @@
       <file leaf-file-name="style-responsive.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scss/style-responsive.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8568">
-              <caret line="504" column="16" selection-start-line="504" selection-start-column="16" selection-end-line="504" selection-end-column="16" />
+            <state relative-caret-position="306">
+              <caret line="310" column="19" selection-start-line="310" selection-start-column="19" selection-end-line="310" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -120,10 +129,10 @@
         <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/all.html" />
         <option value="$PROJECT_DIR$/app/js/scripts.js" />
-        <option value="$PROJECT_DIR$/app/scss/style-responsive.scss" />
         <option value="$PROJECT_DIR$/app/js/contact-form.js" />
         <option value="$PROJECT_DIR$/app/js/scripts.min.js" />
         <option value="$PROJECT_DIR$/app/scss/style.scss" />
+        <option value="$PROJECT_DIR$/app/scss/style-responsive.scss" />
         <option value="$PROJECT_DIR$/app/product.html" />
       </list>
     </option>
@@ -146,8 +155,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="873" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -174,6 +184,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -298,7 +309,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -306,7 +316,6 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../gealuron" />
-    <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -369,14 +378,15 @@
       <workItem from="1482849114936" duration="9000" />
       <workItem from="1482851187772" duration="1543000" />
       <workItem from="1482917188927" duration="23000" />
+      <workItem from="1483087296156" duration="1197000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115054000" />
+    <option name="totallyTimeSpent" value="116251000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="873" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -765,14 +775,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scss/style-responsive.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8568">
-          <caret line="504" column="16" selection-start-line="504" selection-start-column="16" selection-end-line="504" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/scss/vars.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -792,8 +794,12 @@
     <entry file="file://$PROJECT_DIR$/app/js/contact-form.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4097">
-          <caret line="241" column="22" selection-start-line="241" selection-start-column="22" selection-end-line="241" selection-end-column="22" />
-          <folding />
+          <caret line="265" column="22" selection-start-line="265" selection-start-column="22" selection-end-line="265" selection-end-column="22" />
+          <folding>
+            <marker date="1483016674000" expanded="true" signature="72:207" placeholder="{...}" />
+            <marker date="1483016674000" expanded="true" signature="7060:7072" placeholder="{...}" />
+            <marker date="1483016674000" expanded="true" signature="7060:7078" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -815,16 +821,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/scss/style.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21454">
-          <caret line="1262" column="13" selection-start-line="1262" selection-start-column="13" selection-end-line="1262" selection-end-column="13" />
+        <state relative-caret-position="553">
+          <caret line="1348" column="18" selection-start-line="1348" selection-start-column="18" selection-end-line="1348" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scss/style-responsive.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="310" column="19" selection-start-line="310" selection-start-column="19" selection-end-line="310" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/product.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1600">
-          <caret line="508" column="34" selection-start-line="508" selection-start-column="34" selection-end-line="508" selection-end-column="34" />
+        <state relative-caret-position="493">
+          <caret line="536" column="22" selection-start-line="536" selection-start-column="22" selection-end-line="536" selection-end-column="22" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>

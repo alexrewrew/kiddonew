@@ -1240,7 +1240,10 @@ label {
 #step4 {
   display: none;
   -webkit-transition: all 0.4s ease;
-  transition: all 0.4s ease; }
+  transition: all 0.4s ease;
+  height: 590px; }
+  #step4 .modal_header_row {
+    padding-top: 9%; }
 
 #novaposhta {
   display: none; }
@@ -1467,7 +1470,11 @@ label {
   .personal_data {
     margin-left: -30px; }
   .small_input {
-    width: 42.5%; } }
+    width: 42.5%; }
+  #step4 {
+    height: auto; }
+  .personal_data {
+    padding-top: 22px; } }
 
 @media (min-width: 470px) and (max-width: 767px) {
   .yellow_box.small_box img {
@@ -1576,7 +1583,9 @@ label {
   .modal-body .middle_input {
     width: 28%; }
   .modal-body .small_input {
-    width: 14%; } }
+    width: 14%; }
+  #step4 {
+    height: auto; } }
 
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) and (max-width: 1199px) {
@@ -1624,7 +1633,9 @@ label {
   .middle_input {
     width: 36%; }
   #step3 input {
-    margin-right: 13px; } }
+    margin-right: 13px; }
+  #step4 {
+    height: auto; } }
 
 /* Large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
