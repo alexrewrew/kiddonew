@@ -1057,8 +1057,8 @@ footer {
 .close {
   font-size: 65px;
   position: absolute;
-  right: -66px;
-  top: -2px;
+  right: -125px;
+  top: -35px;
   opacity: 1;
   -webkit-transition: all 0.4s ease;
   transition: all 0.4s ease;
@@ -1585,7 +1585,10 @@ label {
   .modal-body .small_input {
     width: 14%; }
   #step4 {
-    height: auto; } }
+    height: auto; }
+  .close {
+    right: -78px;
+    top: -35px; } }
 
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) and (max-width: 1199px) {
