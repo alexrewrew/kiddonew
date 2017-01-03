@@ -60,9 +60,43 @@ if(!empty($_POST)){
 		$message .= "<b>Комментарий: </b>" . $_POST['comment'] . "<br>";
 	}
 
+	$messageToCustomer = "Вы сделали заказ на сайте kiddo.com.ua<br>";
+	$messageToCustomer = "Ваши данные:<br>";
+	$messageToCustomer .= "<b>Имя: </b>" . $_POST['name'] . "<br>";
+	$messageToCustomer .= "<b>Фамилия: </b>" . $_POST['serName'] . "<br>";
+	$messageToCustomer .= "<b>Email: </b>" . $_POST['email'] . "<br>";
+	$messageToCustomer .= "<b>Телефон: </b>" . $_POST['tel'] . "<br><br>";
+
+	$messageToCustomer = "Ваш заказ:<br>";
+	$messageToCustomer .= "<b>Товар: </b>" . $_POST['tovar'] . "<br>";
+	$messageToCustomer .= "<b>Количество: </b>" . $_POST['col'] . "<br>";
+	$messageToCustomer .= "<b>Цена за единицу: </b>" . $_POST['price'] . "<br>";
+	$messageToCustomer .= "<b>Общая сумма: </b>" . $_POST['summ'] . "<br>";
+	$messageToCustomer .= "<b>Цвета: </b>" . $_POST['colors'] . "<br><br>";
+
+	$messageToCustomer .= "<b>Способ доставки: </b>" . $_POST['spos'] . "<br><br>";
+	if ($_POST['sposNum'] == "1") {
+		$messageToCustomer .= "<b>Город: </b>" . $_POST['city'] . "<br>";
+		$messageToCustomer .= "<b>Улица: </b>" . $_POST['street'] . "<br>";
+		$messageToCustomer .= "<b>Дом: </b>" . $_POST['build'] . "<br>";
+		if (!empty($_POST['kv'])) {
+			$messageToCustomer .= "<b>Квартира: </b>" . $_POST['kv'] . "<br>";
+		}
+	} else {
+		$messageToCustomer .= "<b>Город: </b>" . $_POST['cityNP'] . "<br>";
+		$messageToCustomer .= "<b>Отделение Новой Почты: </b>" . $_POST['numNP'] . "<br>";
+	}
+	if (!empty($_POST['comment'])) {
+		$messageToCustomer .= "<b>Комментарий: </b>" . $_POST['comment'] . "<br>";
+	}
+
 	foreach ($arUsers as $Item){
 		$r = send_mime_mail("KIDDO", "kiddo@gmail.com", $Item['NAME'], $Item['EMAIL'], 'utf-8', 'utf-8', "Замовлення на сайті KIDDO", $message);
 		//потом тут тоже на правильное поменяешь
 	}
+
+	//письмо для заказчика
+	send_mime_mail("KIDDO", "kiddo@gmail.com", "KIDDO", $_POST['email'], 'utf-8', 'utf-8', "Замовлення на сайті KIDDO", $messageToCustomer);
+	//потом тут тоже на правильное поменяешь
 }
 ?>
